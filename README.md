@@ -16,3 +16,5 @@
 ![Alt text](images/lm2596.jpg?raw=true)
 
 ## Circuit:
+![Alt text](images/dia.png?raw=true)
+
