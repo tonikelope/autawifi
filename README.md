@@ -12,5 +12,7 @@ Wifi doorbell for MONITOR AUTA COMPACT VISUALTECH 5H
 - LM2596 DC -> DC voltage reductor.
 - Mini protoboard (optional)
 
+![Alt text](images/esp8266.jpg?raw=true)
+![Alt text](images/lm2596jpg?raw=true)
 
 ## Circuit:
