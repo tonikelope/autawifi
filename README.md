@@ -10,7 +10,6 @@
 ## Materials:
 - NodeMCU Lolin (v3) ESP8266 (or any Arduino with wifi)
 - LM2596 DC -> DC voltage reductor.
-- Mini breadboard (optional)
 
 ![Alt text](images/esp8266.jpg?raw=true)
 ![Alt text](images/lm2596.jpg?raw=true)
