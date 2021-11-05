@@ -13,6 +13,6 @@ Wifi doorbell for MONITOR AUTA COMPACT VISUALTECH 5H
 - Mini protoboard (optional)
 
 ![Alt text](images/esp8266.jpg?raw=true)
-![Alt text](images/lm2596jpg?raw=true)
+![Alt text](images/lm2596.jpg?raw=true)
 
 ## Circuit:
