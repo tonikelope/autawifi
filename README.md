@@ -10,7 +10,7 @@ The purpose of this project is to implement the function of receiving notificati
 
 
 ## Materials:
-- NodeMCU Lolin (v3) ESP8266 (or any Arduino with wifi)
+- NodeMCU ESP8266 (or any Arduino with wifi)
 - LM2596 DC -> DC voltage reducer.
 
 ![Alt text](images/esp8266.jpg?raw=true)
